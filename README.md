@@ -222,10 +222,5 @@ Through this project, you've learned:
 - ✅ Error detection and recovery strategies
 - ✅ Memory and resource lifecycle management
 
-## 📚 Further Reading
-
-- **Man Pages**: `man socket`, `man connect`, `man bind`, `man listen`
-- **Beej's Guide to Network Programming**: https://beej.us/guide/bgnet/
-- **Linux Socket Programming**: https://www.gnu.org/software/libc/manual/html_node/Sockets.html
 
 ## 📄 License
